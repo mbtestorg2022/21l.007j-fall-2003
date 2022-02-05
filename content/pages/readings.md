@@ -35,34 +35,459 @@ Walcott, Derek. _Collected Poems 1948-1984._ Noonday Press, 1987. (Selections)
 Daily Reading Assignments
 -------------------------
 
-| SES # | TOPICS | READINGS | SUPPLEMENTARY MATERIALS |
-| --- | --- | --- | --- |
-| 1 | Introductions | &nbsp; |
-| 2 | Montaigne. "Of the Cannibals." In Orgel, _Tempest_. | &nbsp; |
-| 3 | De Léry. _History of a Voyage._ | Ch. I-II, IV-VI, XIII | &nbsp; |
-| 4 | De Léry. _History of a Voyage._ | Ch. XIV-XX, XXII | &nbsp; |
-| 5 | _Jesuit Relations._ | Pp. 20-36, 48-75, 78-91 | &nbsp; |
-| 6 | _Jesuit Relations._ | Pp. 94-106, 137-85 | &nbsp; |
-| 7 | Screening | &nbsp; |
-| 8 | Movie: _How Tasty was my little Frenchman_... | &nbsp; |
-| 9 | "The Strachey Letter" (Orgel, Appendix B). _Tempest._ | Act I sc. i | &nbsp; |
-| 10 | Shakespeare. _The Tempest._ | I. ii-II i | &nbsp; |
-| 11 | Shakespeare. _The Tempest._ | II. ii-III iii | &nbsp; |
-| 12 | Shakespeare. _The Tempest._ | IV i-end | &nbsp; |
-| 13 | Smith. _Generall Historie._ | Pp. 136-58 (CP) | Reading John Smith ([PDF]({{< baseurl >}}/resources/jamestown_smith1)) |
-| 14 | Smith. _Generall Historie._ | Pp. 180-207 (CP) | What Happens in Smith (part 2) ([PDF]({{< baseurl >}}/resources/what_smith2)) |
-| 15 | Screening | &nbsp; | John Rolfe's Letter ([PDF]({{< baseurl >}}/resources/rolfes_letter)) |
-| 16 | Movie: _Pocahontas._ John Rolfe's Letter (See "Backgrounds.") | &nbsp; | After Pocahontas ([PDF]({{< baseurl >}}/resources/pocahontas_wate)) |
-| 17 | Rowlandson. _Sovereignty._ | Pp. 63-87 | American Identities; Mary Rowlandson ([PDF]({{< baseurl >}}/resources/american_identity)) |
-| 18 | Rowlandson. _Sovereignty._ | Pp. 87-112 | &nbsp; |
-| 19 | Jemison. _Narrative._ Preface and Introduction. | Ch. I-VII | &nbsp; |
-| 20 | Jemison. _Narrative._ | Ch. VII-XVI. | &nbsp; |
-| 21 | Paper Workshop | &nbsp; |
-| 22 | Defoe. _Crusoe_. | Pp. 1-71 | &nbsp; |
-| 23 | Defoe. _Crusoe_. | Pp. 71-140 | &nbsp; |
-| 24 | Defoe. _Crusoe_. | Pp. 141-208 | &nbsp; |
-| 25 | Coetzee. _Foe._ | Parts I-II (Pp. 1-113) | &nbsp; |
-| 26 | Coetzee. _Foe._ | Parts III-IV (Pp. 114-157) | &nbsp; |
-| 27 | Walcott, "The Castaway," "Crusoe's Island," "Crusoe's Journal." | &nbsp; | Notes on Walcott (1) ([PDF]({{< baseurl >}}/resources/walcott1_castaway)) |
-| 28 | Paper Writing | &nbsp; |
-| 29 | Walcott, "Ruins of a Great House," "New World," "The Sea is History." | &nbsp; | Notes on Walcott (2) ([PDF]({{< baseurl >}}/resources/walcott_poems2))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+SUPPLEMENTARY MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Montaigne. "Of the Cannibals." In Orgel, _Tempest_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+De Léry. _History of a Voyage._
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. I-II, IV-VI, XIII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+De Léry. _History of a Voyage._
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. XIV-XX, XXII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Jesuit Relations._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 20-36, 48-75, 78-91
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Jesuit Relations._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 94-106, 137-85
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Screening
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: _How Tasty was my little Frenchman_...
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+"The Strachey Letter" (Orgel, Appendix B). _Tempest._
+{{< tdclose >}}
+{{< tdopen >}}
+Act I sc. i
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare. _The Tempest._
+{{< tdclose >}}
+{{< tdopen >}}
+I. ii-II i
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare. _The Tempest._
+{{< tdclose >}}
+{{< tdopen >}}
+II. ii-III iii
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare. _The Tempest._
+{{< tdclose >}}
+{{< tdopen >}}
+IV i-end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Smith. _Generall Historie._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 136-58 (CP)
+{{< tdclose >}}
+{{< tdopen >}}
+Reading John Smith ([PDF]({{< baseurl >}}/resources/jamestown_smith1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Smith. _Generall Historie._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 180-207 (CP)
+{{< tdclose >}}
+{{< tdopen >}}
+What Happens in Smith (part 2) ([PDF]({{< baseurl >}}/resources/what_smith2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Screening
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+John Rolfe's Letter ([PDF]({{< baseurl >}}/resources/rolfes_letter))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: _Pocahontas._ John Rolfe's Letter (See "Backgrounds.")
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+After Pocahontas ([PDF]({{< baseurl >}}/resources/pocahontas_wate))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson. _Sovereignty._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 63-87
+{{< tdclose >}}
+{{< tdopen >}}
+American Identities; Mary Rowlandson ([PDF]({{< baseurl >}}/resources/american_identity))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Rowlandson. _Sovereignty._
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 87-112
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Jemison. _Narrative._ Preface and Introduction.
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. I-VII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Jemison. _Narrative._
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. VII-XVI.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe. _Crusoe_.
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 1-71
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe. _Crusoe_.
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 71-140
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe. _Crusoe_.
+{{< tdclose >}}
+{{< tdopen >}}
+Pp. 141-208
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Coetzee. _Foe._
+{{< tdclose >}}
+{{< tdopen >}}
+Parts I-II (Pp. 1-113)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Coetzee. _Foe._
+{{< tdclose >}}
+{{< tdopen >}}
+Parts III-IV (Pp. 114-157)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Walcott, "The Castaway," "Crusoe's Island," "Crusoe's Journal."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Notes on Walcott (1) ([PDF]({{< baseurl >}}/resources/walcott1_castaway))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Walcott, "Ruins of a Great House," "New World," "The Sea is History."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Notes on Walcott (2) ([PDF]({{< baseurl >}}/resources/walcott_poems2))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
